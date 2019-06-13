@@ -1,3 +1,17 @@
+/*   Question
+
+3 . Write a script that finds the maximal sequence of equal elements in an array.
+
+Example:
+
+input     
+2, 1, 1, 2, 3, 3, 2, 2, 2, 1  
+result
+2, 2, 2
+
+*/
+
+
 var arr = [2, 1, 1, 2, 3, 3, 2, 2, 2, 1]
 
 //var index = 0;
