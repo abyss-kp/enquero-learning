@@ -1,3 +1,14 @@
+/* Question
+4. Write a script that finds the maximal increasing sequence in an array.
+Example:
+
+input     
+3, 2, 3, 4, 2, 2, 4 
+result
+2, 3, 4
+
+*/
+
 var arr = [3, 2, 3, 4, 2, 2, 4]
 const len = arr.length;
 
