@@ -10,6 +10,6 @@ function returnYoungestPerson(people) {
             youngestPerson = person;
         }
     });
-    console.log('Youngest person is ' + youngestPerson.firstname + ' ' + youngestPerson.lastname + ', ' + youngestPerson.age + ' years of age');
+    console.log('Youngest person is ' + youngestPerson.firstname + ' ' + youngestPerson.lastname + ', who is ' + youngestPerson.age + ' old');
 }
 returnYoungestPerson(people)
