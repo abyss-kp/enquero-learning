@@ -8,8 +8,3 @@ const hasProperty = (obj, property) => obj.hasOwnProperty(property)
 
 const hasProp = hasProperty(obj, property)
 hasProp ? console.log("Object contains given property") : console.log('Object does not contain given property')
-
-// if(property in obj)
-// {
-//   console.log("Yes it is")
-// }
